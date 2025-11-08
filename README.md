@@ -30,7 +30,7 @@ The goal from the Frontend Mentor challenge is to build a responsive recipe page
 ### Links
 
 - Solution URL: [https://github.com/jorgeLRM/recipe-page](https://github.com/jorgeLRM/recipe-page)
-- Live Site URL: (add your live site link if deployed, e.g., GitHub Pages)
+- Live Site URL: [https://jorgelrm.github.io/recipe-page/](https://jorgelrm.github.io/recipe-page/)
 
 ## My process
 
